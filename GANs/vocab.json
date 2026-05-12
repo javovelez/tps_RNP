@@ -1,0 +1,33 @@
+{
+  "characters": ["X", "S", "-", "?", "Q", "E", "<", ">", "[", "]", "o", "B", "b"],
+  "char_to_sprite": {
+    "X": "block.png",
+    "S": "ground.png",
+    "-": "empty.png",
+    "?": "question.png",
+    "Q": "block_q.png",
+    "E": "enemy.png",
+    "<": "pipe_l.png",
+    ">": "pipe_r.png",
+    "[": "pipe_top_l.png",
+    "]": "pipe_top_r.png",
+    "o": "coin.png",
+    "B": "brick.png",
+    "b": "brick_broken.png"
+  },
+  "char_descriptions": {
+    "X": "Bloque sólido (terreno)",
+    "S": "Suelo destructible",
+    "-": "Vacío (cielo / aire)",
+    "?": "Bloque pregunta (item)",
+    "Q": "Bloque pregunta usado",
+    "E": "Enemigo (Goomba/Koopa)",
+    "<": "Tubo - lado izquierdo",
+    ">": "Tubo - lado derecho",
+    "[": "Tubo - tope izquierdo",
+    "]": "Tubo - tope derecho",
+    "o": "Moneda",
+    "B": "Ladrillo",
+    "b": "Ladrillo roto"
+  }
+}

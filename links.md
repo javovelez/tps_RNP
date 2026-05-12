@@ -10,3 +10,5 @@
 | Laboratorio 3b — Transferencia de estilos rápida | [Abrir en Colab](https://colab.research.google.com/github/javovelez/tps_RNP/blob/main/Laboratorio_3b.ipynb) |
 | Laboratorio 4a — Detección de objetos | [Abrir en Colab](https://colab.research.google.com/github/javovelez/tps_RNP/blob/main/Laboratorio_4a.ipynb) |
 | Laboratorio 4b — Segmentación semántica con U-Net | [Abrir en Colab](https://colab.research.google.com/github/javovelez/tps_RNP/blob/main/Laboratorio_4b.ipynb) |
+| Laboratorio 5a — Redes Generativas Adversarias | [Abrir en Colab](https://colab.research.google.com/github/javovelez/tps_RNP/blob/main/Laboratorio_5a.ipynb) |
+| Laboratorio 5b — Autoencoders Variacionales | [Abrir en Colab](https://colab.research.google.com/github/javovelez/tps_RNP/blob/main/Laboratorio_5b.ipynb) |
